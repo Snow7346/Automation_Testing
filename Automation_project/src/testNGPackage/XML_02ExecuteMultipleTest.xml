@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "My Suite">
+	<test name = "MyTest">
+		<classes>
+			<class name = "testNGPackage.TNG_10RandomAmazonScript">
+				<methods>
+					<include name = "testElectronicsLink"></include>
+					<include name = "testBestSellerLink"></include>
+					<include name = "testSellLink"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
